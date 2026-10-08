@@ -1,0 +1,4 @@
+contacts:
+  example:
+    name: "production"
+    email: "production@email.com"
